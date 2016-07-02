@@ -5,7 +5,7 @@ MacOS Sierra HD
 Based on the old InstaDMG
 https://wiki.afp548.com/index.php/Create_a_Mac_OS_X_with_InstaDMG_and_InstaUp2Date
  
-Working for MacOS 10.12  
+Working inside MacOS 10.12 only!  
 
 
 # Instructions
