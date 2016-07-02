@@ -1,6 +1,6 @@
 #!/bin/bash
 # MacOS Sierra HD
-# chris1111 http://hackintosh-montreal.com
+# (c) Copyright 2016 chris1111  
 
 osascript ./Intro.app
 Sleep 2
