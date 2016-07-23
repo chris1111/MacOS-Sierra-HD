@@ -19,12 +19,16 @@ You need empty SSD OR HD before using this program!
 
 1.  Download MacOS Sierra HD.app
 
-2.  Open `MacOS Sierra HD.app`
-(Follow every steps` ). 
+2.  Open `MacOS Sierra HD.app
+
+3.  --------Important--------
+Format your SSD with Disk Utility as OS X Extended (Journaled) GUID Partition Map
+you must rename `MacOS-HD`
+ 
  
 How Does MacOS Sierra HD Work?
 Its a shell script called MacOS-HD.sh (See the scripts` ).
 
 Follow every steps in the Video
 
-[![Modular Image Creation](http://i35.servimg.com/u/f35/18/50/18/69/icon-511.png)](https://www.youtube.com/watch?v=xiwYqvqu4W4)
+[![Modular Image Creation](http://i35.servimg.com/u/f35/18/50/18/69/icon-511.png)](https://www.youtube.com/watch?v=MaI7jdx1pnI)
