@@ -15,7 +15,6 @@ This will Deploy MacOS Sierra on your selected Volume.
 You need Installer MacOS Sierra.app from Mac App Store on your Mac.
 
 You need empty SSD OR HD before using this program!
-(The name of your Install Drive must be without any space.` ). 
 
 1.  Download MacOS Sierra HD.app
 
