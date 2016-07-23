@@ -22,6 +22,7 @@ You need empty SSD OR HD before using this program!
 2.  Open `MacOS Sierra HD.app
 
 3.  --------Important--------
+
 Format your SSD with Disk Utility as OS X Extended (Journaled) GUID Partition Map
 you must rename `MacOS-HD`
  
