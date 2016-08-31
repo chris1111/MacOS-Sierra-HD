@@ -11,7 +11,7 @@ Sleep 2
 # Vars
 apptitle="MacOS Sierra HD"
 version="2.2"
-#get usbdiskpath Installer path0
+#get usbdiskpath Installer path
 # Set Icon directory and file 
 iconfile="/System/Library/CoreServices/Installer.app/Contents/Resources/Installer.icns"
 
