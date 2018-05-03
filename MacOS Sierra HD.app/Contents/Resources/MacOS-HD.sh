@@ -89,6 +89,7 @@ if [ ! "$answer" ] ; then
   exit 0
 fi
 
+echo "Make sure the volume is renaming MacOS-HD "
 /usr/sbin/diskutil rename "$usbdiskpath" "MacOS-HD"
 echo " "
 echo "Installation  /Volumes/MacOS-HD  
