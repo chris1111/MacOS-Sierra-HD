@@ -123,4 +123,4 @@ open /Volumes/"Macintosh-HD"
 Sleep 2
 
 
-echo "Enjoy!  " 
+echo "MacOS Sierra HD completed!  " 
