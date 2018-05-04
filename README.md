@@ -19,6 +19,8 @@ Working inside MacOS 10.12 only!
   
 ### How Does MacOS Sierra HD Work?
 Its a shell script called MacOS-HD.sh (See the scripts).
+![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/sans_160.png)
+
 
 Follow every steps in the Video
 
