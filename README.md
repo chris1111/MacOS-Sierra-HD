@@ -1,4 +1,6 @@
 # MacOS Sierra HD
+- This is to test macOS
+- Buy a mac after testing macOS
 
 ### This a app bundle create with Platypus-5.1
 MacOS Sierra HD Based on the old InstaDMG
